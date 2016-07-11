@@ -6,8 +6,10 @@
 #define SHREKT }
 #define HAX *
 #define MEME int
-#define DAT float
-#define BOI decimal
+#define DAT switch
+#define BOI case
+#define DOE default
+#define MOMGETTHECAMARA :
 #define SAMPLE
 #define TEXT char
 #define DANK const
