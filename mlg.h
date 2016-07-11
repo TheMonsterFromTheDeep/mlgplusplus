@@ -6,7 +6,8 @@
 #define SHREKT }
 #define HAX *
 #define MEME int
-#define WEED float
+#define DAT float
+#define BOI decimal
 #define SAMPLE
 #define TEXT char
 #define DANK const
