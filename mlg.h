@@ -6,6 +6,13 @@
 #define SHREKT }
 #define HAX *
 #define MEME int
+#define LOOK switch(
+#define ITS ) {
+#define DAT case
+#define BOI :
+#define MAI default
+#define WADDUP break
+#define MOMGETTHECAMARA :
 #define SAMPLE
 #define TEXT char
 #define DANK const
