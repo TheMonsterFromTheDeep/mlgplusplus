@@ -47,3 +47,10 @@
 #define TH - 1
 #define OF +
 #define M9 ))
+#define SWAG <<
+#define WASUPPPPP "
+#define THINKING int
+#define ABOUT main()
+#define BEANS {
+#define YO cout
+#define MUM "
